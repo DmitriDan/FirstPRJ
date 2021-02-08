@@ -1,0 +1,142 @@
+    1  man
+    2  man uptime
+    3  pwd
+    4  gedit 1.txt
+    5  ls
+    6  ..
+    7  mv ..
+    8  /Desktop/hello_linux$ 
+    9  cd ..
+   10  pwd
+   11  cd hello_linux/
+   12  ls
+   13  ls -l
+   14  sudo apt install gedit
+   15  gedit 1.txt
+   16  ls
+   17  sudo apt install geany
+   18  apt- cache sqlight
+   19  apt-cache sqlight
+   20  gedit 1
+   21  ls
+   22  clear
+   23  file 1
+   24  file 1.txt 
+   25  mkdir 2
+   26  ls
+   27  cd 2
+   28  ls
+   29  cd ..
+   30  cd ~
+   31  pwd
+   32  cd Desktop/hello_linux/
+   33  gedit 1
+   34  clear
+   35  cat 1
+   36  ls -la
+   37  dag
+   38  clear
+   39  sudo apt install tree
+   40  cd /
+   41  tree L
+   42  tree
+   43  `qqq
+   44  `lear
+   45  clear
+   46  cd `
+   47  ~
+   48  cd ~
+   49  clear
+   50  cd ~
+   51  pwd
+   52  cd ./RT_std/LINUX/cw18_1/
+   53  gnome-terminal .&disown
+   54  cat result.txt 
+   55  echo dasd
+   56  ls
+   57  cat result.txt 
+   58  echo sdasd
+   59  ls
+   60  cd RT_std/
+   61  ls
+   62  mkdir JENKINS
+   63  ls
+   64  cd JENKINS/
+   65  ls
+   66  cd RT_std/
+   67  ls
+   68  cd SOURCE_CONTROL/
+   69  ls
+   70  cd GitCourse/
+   71  ll
+   72  cd ..
+   73  rm -rf GitCourse/
+   74  ls
+   75  ll
+   76  mkdir FirstPRJ
+   77  cd FirstPRJ/
+   78  git clone https://github.com/DmitriDan/FirstPRJ.git
+   79  ll
+   80  cd FirstPRJ/
+   81  ll
+   82  cat README.md 
+   83  echo "new a file added in linux" > a
+   84  ls
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m "First commit in local. added a file"
+   89  git log
+   90  git push origin 
+   91  ll
+   92  echo "new b file added in linux" > b
+   93  echo "new C file added in linux" > c
+   94  ls
+   95  git status
+   96  git add .
+   97  git status
+   98  git rm b --cashed
+   99  git rm b --cached 
+  100  git status
+  101  git commit -m " commit in local. added c file. b is out"
+  102  ls
+  103  git status
+  104  git push origin
+  105  ifconfig
+  106  cd ..
+  107  rm FirstPRJ/
+  108  cd FirstPRJ/FirstPRJ/
+  109  cd ~
+  110  ls .ssh
+  111  cat id_rsa.pub
+  112  cd id_rsa.pub
+  113  ll
+  114  cd .ssh
+  115  ls
+  116  cat id_rsa.pub
+  117  pwd
+  118  cd ~
+  119  ls
+  120  cd RT_std/
+  121  cd SOURCE_CONTROL/
+  122  cd FirstPRJ/
+  123  cd cd 
+  124  cd .
+  125  cd ~
+  126  ssh -T git@github.com
+  127  cd ~/.ssh
+  128  ls
+  129  cat known_hosts 
+  130  ssh -T git@github.com
+  131  cd ~
+  132  cd RT_std/
+  133  cd SOURCE_CONTROL/
+  134  ls
+  135  cd FirstPRJ/
+  136  ls
+  137  cd FirstPRJ/
+  138  ls
+  139  git status
+  140  git add .
+  141  git config remote.origin.url git@github.com:DmitriDan/FirstPRJ.git
+  142  history > history 
